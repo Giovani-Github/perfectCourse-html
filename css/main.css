@@ -150,16 +150,16 @@ body {
     float: right;
 }
 
-.alreadyLog {
-    /*visibility: hidden;*/
+/*.alreadyLog {*/
+    /*visibility: visible;*/
     /*height: 0px;*/
-}
+/*}*/
 
-.ontLog {
-    visibility: hidden;
-    height: 0px;
-    padding: 0px;
-}
+/*.ontLog {*/
+    /*visibility: visible;*/
+    /*height: 0px;*/
+    /*padding: 0px;*/
+/*}*/
 
 /* 导航条 end */
 
